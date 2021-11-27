@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.4.4)
+  - ProgressHUD (13.6)
+  - ReachabilitySwift (5.0.0)
+  - Realm (10.17.0):
+    - Realm/Headers (= 10.17.0)
+  - Realm/Headers (10.17.0)
+  - RealmSwift (10.17.0):
+    - Realm (= 10.17.0)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - ProgressHUD
+  - ReachabilitySwift
+  - RealmSwift (~> 10)
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ProgressHUD
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: 9533276bd76f66aa2fd0d3ffe700c1f6023dcab6
+  RealmSwift: 57f5d59aa29852587aad1e861989e7af139894b5
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: c44bd564bfb6c2a36b8d70379c22d81208e0a3ab
+
+COCOAPODS: 1.11.2
